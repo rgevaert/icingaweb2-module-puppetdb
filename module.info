@@ -1,4 +1,4 @@
-Name: AWS
+Name: puppetdb
 Version: 1.0.0
 Depends: monitoring
 Description: PuppetDB module for Icinga Web 2
